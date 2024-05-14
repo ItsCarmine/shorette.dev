@@ -1,4 +1,4 @@
-baseURL = 'https://shorette.dev/'
+baseURL = 'https://www.shorette.dev/'
 languageCode = 'en-us'
 title = 'Carmine Shorette'
 theme = 'typo'
