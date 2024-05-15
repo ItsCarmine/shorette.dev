@@ -46,10 +46,6 @@ name = "x"
 url = "https://twitter.com/0xTaka_"
 
 [[params.social]]
-name = "goodreads"
-url = "https://www.goodreads.com/user/show/178244521-carmine-shorette"
-
-[[params.social]]
 name = "letterboxd"
 url = "https://letterboxd.com/JavaBrewed/"
 
