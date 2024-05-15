@@ -45,10 +45,6 @@ url = "https://www.linkedin.com/in/carmine-shorette/"
 name = "x"
 url = "https://twitter.com/0xTaka_"
 
-[[params.social]]
-name = "letterboxd"
-url = "https://letterboxd.com/JavaBrewed/"
-
 # Main menu pages
 [[params.menu]]
 name = "home"
