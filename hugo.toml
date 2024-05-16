@@ -5,17 +5,18 @@ theme = 'typo'
 
 [params]
 # Appearance
-theme = 'auto'
+theme = 'dark'
 
 # Intro on main page, content in markdown, if you omit title or content the other can be displayed
 homeIntroTitle = 'Hello! 👋'
 homeIntroContent = """
-Currently studying Applied Math & CS @ [UW–Madison](https://www.wisc.edu).
+Currently studying Applied Math and CS at [UW–Madison](https://www.wisc.edu).
 
-For Summer 2024, I am currently a Middleware Development Intern @ [Department of Employee Trust Funds](https://etf.wi.gov/).
-Interested in quantitative finance, numerical analysis and cryptography.
+This summer, I'm working as a Middleware Development Intern at the [Department of Employee Trust Funds](https://etf.wi.gov/).
 
-Currently obsessed with building option pricing models! Twitter DMs are open!
+In my free time, I enjoy tinkering with Linux systems (I use Arch BTW) and playing chess.
+
+Lately, I've been obsessed with building option pricing models. Twitter DMs always open!
 """
 
 # Collection to display on home page: 
