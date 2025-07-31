@@ -10,9 +10,10 @@ theme = 'dark'
 # Intro on main page, content in markdown, if you omit title or content the other can be displayed
 homeIntroTitle = 'Hello! 👋'
 homeIntroContent = """
-Currently studying Applied Math and CS at [UW–Madison](https://www.wisc.edu).
 
-I'm currently working part time as a Middleware Development Intern at the [Department of Employee Trust Funds](https://etf.wi.gov/).\nIn my free time, I enjoy tinkering with Linux systems (I use Arch BTW) and playing chess.
+I'm currently working as a DevOps Engineer at the [Department of Employee Trust Funds](https://etf.wi.gov/).\nIn my free time, I enjoy tinkering with Linux systems (I use Arch BTW) and playing chess.
+
+Recent graduate! BS in Applied Math and CS from [UW–Madison](https://www.wisc.edu).
 """
 
 # Collection to display on home page: 
